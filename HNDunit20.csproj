@@ -45,7 +45,8 @@
     <Reference Include="System.Xml" />
   </ItemGroup>
   <ItemGroup>
-    <Compile Include="ActualService.cs" />
+    <Compile Include="MediaAccount.cs" />
+    <Compile Include="MediaService.cs" />
     <Compile Include="BankAccount.cs" />
     <Compile Include="CDNode.cs" />
     <Compile Include="frmBank.cs">
